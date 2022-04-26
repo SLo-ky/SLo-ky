@@ -1,6 +1,6 @@
 ## Bonjour ! 
 ### Je suis dévelopeur en Java Script, Discord.JS plus précisemment.
-#### Mon projet (iLone) actuellement en Dev.
+#### Mon projet (Miiro) actuellement en Dev.
 #### Outils principaux : 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%;" width="60" height="60">                                                                                                                                                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="max-width: 100%;" width="60" height="60">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  alt="Node JS" style="max-width: 100%;" width="60" height="60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Node JS" style="max-width: 100%;" width="60" height="60"> ![Microsoft VisualStudio Services Icons Default](https://user-images.githubusercontent.com/101725168/158636040-72516f08-4d47-4980-88aa-7437705d85f0.png)
 
